@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  loxi-agent:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-03-29T10:06:40.67586898+09:00"
+    description: A Helm chart for loxilight CNI & loxi-agent
+    digest: 5eee6514126d8d2c713b06f1a418156b55d769960526580d879c083cf0cd1a5c
+    name: loxi-agent
+    type: application
+    urls:
+    - loxi-agent-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-29T10:06:40.67497332+09:00"
